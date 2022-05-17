@@ -8,6 +8,7 @@ namespace DbConPlus
 {
     public class Connection
     {
+        //commitTest
         protected string ConnectionString { get; set; }
         public Connection(string connectionString)
         {
